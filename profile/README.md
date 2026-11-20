@@ -11,9 +11,7 @@ We build small, lasting tools — the stone at the bottom that holds the rest up
 
 ### 만들고 있는 것
 
-| | |
-| --- | --- |
-| **Arumo** | 카드를 만들고, 잊어버릴 때쯤 다시 보여 주는 학습 앱입니다. 지금은 비공개 테스트 중이에요. |
+- **Arumo** — 카드를 만들고, 잊어버릴 때쯤 다시 보여 주는 학습 앱입니다. 지금은 비공개 테스트 중이에요.
 
 ### 밑돌이
 
