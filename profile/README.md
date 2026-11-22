@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.svg">
-  <img src="banner-light.svg" alt="A cairn of stacked stones with Mitdori, our mascot, on top" width="100%">
-</picture>
+<img src="banner-light.svg" alt="A cairn of stacked stones with Mitdori, our mascot, on top" width="100%">
 
 ## Mitdol Labs · 밑돌랩스
 
